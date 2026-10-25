@@ -1,0 +1,9 @@
+*.vcd
+*.log
+*.jou
+*.wdb
+xcelium.d/
+sim_build/
+*.sim
+*.str
+.history/
